@@ -62,22 +62,14 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela FATEC, o
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📂 Portfólio
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Andre101001&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+Confira meus principais projetos, estudos de caso e contribuições técnicas clicando no botão abaixo:
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre101001&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <a href="LINK_PARA_SEU_PORTFOLIO_OU_REPOSITORIO">
+    <img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO%20COMPLETO-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
