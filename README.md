@@ -1,8 +1,10 @@
-# 👨‍💻 André Silva
+# André Silva
 
-**`Dev`**
+**`SDR | Tech Sales | SaaS B2B | Background em Analise e Desenvolvimento de Sistemas`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software, lógica de programação e banco de dados. Este repositório reúne projetos acadêmicos e pessoais desenvolvidos para aplicar conceitos de programação e organização de dados.
+Sou profissional com mais de 4 anos de experiência nas áreas comercial e administrativa, atuando em ambientes orientados a metas, resultados e relacionamento com clientes. Ao longo da minha trajetória, desenvolvi forte habilidade em vendas consultivas, qualificação de necessidades, organização de processos e comunicação clara.
+
+Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela FATEC, o que me permite unir vivência prática em vendas com entendimento técnico de processos, dados e tecnologia — diferencial importante para atuação em Tech Sales e vendas B2B.
 
 ---
 
