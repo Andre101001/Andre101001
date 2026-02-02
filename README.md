@@ -67,8 +67,8 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela FATEC, o
 Confira meus principais projetos, estudos de caso e contribuições técnicas clicando no botão abaixo:
 
 <p align="left">
-  <a href="LINK_PARA_SEU_PORTFOLIO_OU_REPOSITORIO">
-    <img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO%20COMPLETO-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Andre101001/SalesPortfolio-TechSales/blob/main/README.md">
+    <img src="https://img.shields.io/badge/ACESSAR%20MEU%20PORTFÓLIO%20DE%20VENDAS-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
